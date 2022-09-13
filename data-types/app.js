@@ -1,6 +1,8 @@
-const myName = "Tino";
-console.log(typeof myName);
 
-const myAge = 16;
-console.log(typeof myAge);
 
+
+function myName() {
+    document.open();
+    document.write("<p>tino</p>");
+    document.close();
+}
