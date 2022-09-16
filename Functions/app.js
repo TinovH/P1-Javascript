@@ -4,7 +4,7 @@ const calculate = function(num1, num2) {
     alert(answer)
 }
 
-    //calculate (12,40)//
+    calculate (12,40)
 
 //oefening 2//
 const multiplyByFive = function(num){
@@ -12,7 +12,7 @@ const multiplyByFive = function(num){
     alert(answer);
 }
 
-    //multiplyByFive(10)//
+    multiplyByFive(10)
 
 //oefening 3//
 const checkInput = function(num1, num2){
